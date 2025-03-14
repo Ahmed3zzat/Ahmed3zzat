@@ -41,7 +41,8 @@
 ### 📫 Connect with Me  
 
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/ahmed-ezzat-2a1468245)  
-- 🌟 **Portfolio:** *Coming soon!*  
+- 🌟 **Portfolio:** (https://my-portfolio-2q291we0i-ahmedzats-projects.vercel.app/)
+
 - 📧 **Email:** [ezzat.a2003@gmail.com](mailto:ezzat.a2003@gmail.com)  
 
 ---
