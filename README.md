@@ -18,6 +18,11 @@
 - **Backend:** Node.js, Express
 - **Tools:** Git, GitHub, VSCode
 
+![Ahmed3zzat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed3zzat&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed3zzat&layout=compact&theme=tokyonight)
+
+
 ---
 
 ### 📫 Connect with Me
