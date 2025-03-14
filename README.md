@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Ahmed3zzat! 👋
 
-<!--
-**Ahmed3zzat/Ahmed3zzat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Frontend Developer | React & Next.js Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 🎯 Passionate about building sleek, modern, and user-friendly web apps.
+- 💡 Always learning and experimenting with new technologies.
+- 💪 Strong focus on clean, scalable, and maintainable code.
+
+---
+
+### 🔧 Tech Stack
+
+- **Frontend:** React, Next.js, JavaScript, Tailwind CSS, Material-UI, Bootstrap, Sass, jQuery
+- **Backend:** Node.js, Express
+- **Tools:** Git, GitHub, VSCode
+
+---
+
+### 📫 Connect with Me
+
+- 💼 [LinkedIn]((https://www.linkedin.com/in/ahmed-ezzat-2a1468245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+- 🌟 [Portfolio](#)
+- 📧 Email: [your.email@example.com](ezzat.a2003@gmal.com)
+
+---------------------------------------------
